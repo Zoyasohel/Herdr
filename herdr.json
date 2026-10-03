@@ -1,0 +1,6 @@
+﻿{
+  "name": "Herdr",
+  "version": "0.1.0",
+  "description": "Herdr plugin",
+  "main": "index.js"
+}
